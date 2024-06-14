@@ -58,6 +58,7 @@ Implementation:
 
 
 App Benefits:
+			
 			1.Offline Functionality: The app can operate entirely on the device, eliminating reliance on internet connectivity for core functionalities.
 
 			2.Enhanced Security: Edge AI processing ensures data privacy by keeping text extraction and initial verification local (if applicable).
