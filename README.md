@@ -51,7 +51,7 @@ Scalability: The platform can be easily scaled to accommodate different sized or
 This AI-powered OCR platform offers a versatile and secure solution for identity verification across various scenarios. By leveraging Edge AI technology, it provides a reliable and efficient way to verify identities while maintaining data privacy and security.
 
 
-Step 1. Add it in your root build.gradle at the end of repositories:
+Add it in your root build.gradle at the end of repositories:
 
 dependencyResolutionManagement {
 		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
@@ -59,10 +59,4 @@ dependencyResolutionManagement {
 			mavenCentral()
 			maven { url 'https://jitpack.io' }
 		}
-	}
-
-Step 2. Add the dependency
-
-dependencies {
-	        implementation 'com.github.mandipkanjiya:Card-Recognizer:Tag'
 	}
