@@ -1,4 +1,5 @@
-EdgeVerify Apps
+**EdgeVerify Apps**
+
 Technology Used: - Firebase ML-Vision for Text Recognize.
 
 Core Technology:
