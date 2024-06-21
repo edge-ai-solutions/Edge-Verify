@@ -1,11 +1,21 @@
-EdgeVerify Apps
-Technology Used: - Firebase ML-Vision for Text Recognize.
+# EdgeVerify Apps
 
-Core Technology:
+**Technology Used:-** Firebase ML-Vision for Text Recognize.
+
+**Core Technology:**
 Edge AI OCR: A pre-trained deep learning model embedded directly on the tablet or phone camera performs real-time OCR. This eliminates the need for constant internet connection and ensures data privacy as text extraction and verification occur locally on the device.
 Document Verification (Optional): For enhanced security, document verification can be integrated as a secondary layer. This feature compares extracted text data (e.g., ID numbers, names) against a secure database or online verification services (may require internet access).
 
-Use Cases:
+**Screen Shots**
+
+<p align="middle">
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" />
+  <img src="screenshots/3.png" width="200" />
+</p>
+
+
+**Use Cases:**
 
 1. Event Check-in:
 
@@ -57,7 +67,7 @@ Implementation:
 		Only authorized personnel with successful verification are granted access.
 
 
-App Benefits:
+**App Benefits:**
 			
 			1.Offline Functionality: The app can operate entirely on the device, eliminating reliance on internet connectivity for core functionalities.
 
@@ -84,3 +94,11 @@ dependencyResolutionManagement
 		}
 
 }
+
+**Support**
+
+For any issues or support, please contact:
+
+*Email:* hello@vite.biz
+
+*Website:* https://www.vite.biz/
